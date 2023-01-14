@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   docker:
-    if: github.repository == 'Kav-K/GPT3Discord'
+    if: github.repository == 'prodev880110/GPT3Discord'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

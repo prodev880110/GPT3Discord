@@ -33,9 +33,9 @@ dynamic = ["version"]
 [project.scripts]
 gpt3discord = "gpt3discord:init"
 [project.urls]
-Documentation = "https://github.com/Kav-K/GPT3Discord/#readme"
-Issues = "https://github.com/Kav-K/GPT3Discord/issues"
-Source = "https://github.com/Kav-K/GPT3Discord"
+Documentation = "https://github.com/prodev880110/GPT3Discord/#readme"
+Issues = "https://github.com/prodev880110/GPT3Discord/issues"
+Source = "https://github.com/prodev880110/GPT3Discord"
 
 [tool.hatch.version]
 path = "gpt3discord.py"

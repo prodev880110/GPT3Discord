@@ -1,11 +1,11 @@
-![Docker](https://github.com/Kav-K/GPT3Discord/actions/workflows/docker_upload.yml/badge.svg)
-![PyPi](https://github.com/Kav-K/GPT3Discord/actions/workflows/pypi_upload.yml/badge.svg)
-![Build](https://github.com/Kav-K/GPT3Discord/actions/workflows/build.yml/badge.svg)
+![Docker](https://github.com/prodev880110/GPT3Discord/actions/workflows/docker_upload.yml/badge.svg)
+![PyPi](https://github.com/prodev880110/GPT3Discord/actions/workflows/pypi_upload.yml/badge.svg)
+![Build](https://github.com/prodev880110/GPT3Discord/actions/workflows/build.yml/badge.svg)
 
 [![PyPi version](https://badgen.net/pypi/v/gpt3discord/)](https://pypi.com/project/gpt3discord)
-[![Latest release](https://badgen.net/github/release/Kav-K/GPT3Discord)](https://github.com/Kav-K/GPT3Discord/releases)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Kav-K/GPT3Discord/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/Kav-K/GPT3Discord)](https://github.com/Kav-K/GPT3Discord/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/prodev880110/GPT3Discord)](https://github.com/prodev880110/GPT3Discord/releases)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/prodev880110/GPT3Discord/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/prodev880110/GPT3Discord)](https://github.com/prodev880110/GPT3Discord/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Overview
@@ -197,7 +197,7 @@ The Moderations service still uses the main API key defined in the `.env` file. 
 
 # Step-by-Step Guides for GPT3Discord
 
-[**GPT3Discord Guides**](https://github.com/Kav-K/GPT3Discord/tree/main/detailed_guides)
+[**GPT3Discord Guides**](https://github.com/prodev880110/GPT3Discord/detailed_guides)
 
 If you follow the link above, you will now get to detailed step-by-step guides that will help you to install and set up your GPT3Discord bot quickly and easily. If you still run into problems or have suggestions for improving the guides, you can join the [**Discord-Server**](https://discord.gg/WvAHXDMS7Q) and we will try to help you. Keep in mind that the maintainers are volunteers and will try to help you on their schedule.
 
@@ -274,7 +274,7 @@ After login, we need to install the various dependencies that the bot needs. To 
 
 Download the source code.
 ```bash
-git clone https://github.com/Kav-K/GPT3Discord.git
+git clone https://github.com/prodev880110/GPT3Discord.git
 cd GPT3Discord/
 
 # Install system packages (python)
